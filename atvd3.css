@@ -1,0 +1,26 @@
+.body {
+    background-color: lightgray;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding-top: 50px;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.explicacao {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+
+button {
+    border-radius: 40px;
+    border: solid 1px black;
+    height: 60px;
+    width: 100px;
+    margin: 10px;
+    cursor: pointer;
+    font-weight: bold;
+}
